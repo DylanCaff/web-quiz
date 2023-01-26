@@ -36,21 +36,17 @@
           a: '4. All of the above', 
           choices: [{choice: '1. Null type'}, {choice: '2. Undefined type'}, {choice: '3. Number type'}, {choice: '4. All of the above'}]
         },
-        { q: 'In the code -- setinterval(time(),1000) -- what is time()?', 
+        { q: 'How to stop an interval timer in Javascript?', 
           a: '1. callback function', 
           choices: [{choice: '1. callback function'}, {choice: '2. undefined'}, {choice: '3. variable'}, {choice: '4. all of the above'}]
         },
-        { q: 'What syntax would call a function?', 
-          a: '4. function()', 
-          choices: [{choice: '1. var function'}, {choice: '2. function'}, {choice: '3. call function'}, {choice: '4. function()'}]
+        { q: 'Inside which HTML element do we put the JavaScript?', 
+          a: '2. <script>', 
+          choices: [{choice: '1. <javascript>'}, {choice: '2. <script>'}, {choice: '3. <scripting>'}, {choice: '4. <js>'}]
         },
-        { q: 'When did javascript first appear?', 
-          a: '1. 1995', 
-          choices: [{choice: '1. 1995'}, {choice: '2. Roaring twenties'}, {choice: '3. 2005'}, {choice: '4. 2000'}]
-        },
-        { q: 'What does DOM stand for?', 
-          a: '2. Document Object Model', 
-          choices: [{choice: '1. Do Overnight Modules'}, {choice: '2. Document Object Model'}, {choice: '3. Divas Obviously Model'}, {choice: '4. Do Oo Mo'}]
+        { q: 'JavaScript is the programming language of the _____.', 
+          a: '3. Web', 
+          choices: [{choice: '1. Desktop'}, {choice: '2. Mobile'}, {choice: '3. Web'}, {choice: '4. Server'}]
         },
         { q: 'What is getItem commonly used for?', 
           a: '2. local storage', 
