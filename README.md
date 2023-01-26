@@ -8,5 +8,5 @@ Dylan Cafferatta
 
 ## Screenshot and Live Site 
 
-
-![Screenshot](ss.png)
+[Github Repo](https://dylancaff.github.io/web-quiz/)\
+![Screenshot](Code-quiz.png)
